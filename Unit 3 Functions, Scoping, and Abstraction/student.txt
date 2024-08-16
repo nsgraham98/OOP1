@@ -1,0 +1,7 @@
+John,80
+Steve,70
+Matt,67
+Ryan,91
+Gary,77
+Bob,95
+Will,60
